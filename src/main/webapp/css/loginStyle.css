@@ -1,0 +1,35 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic);
+html, body {
+    height: 100%;
+
+}
+body {
+    font-family: 'Poppins';
+    background-image: url(../image/bground.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.card{
+    width: max-content;
+    margin-top: 8%;
+    border-radius: 1.5rem;
+    height: 70%;
+
+}
+.card-title {
+    text-align: center;
+}
+
+.input input {
+    padding: 0.8rem 0.5rem;
+}
+.input {
+    width: 85%;
+}
+
+.check{
+    padding-left: 4rem;
+}

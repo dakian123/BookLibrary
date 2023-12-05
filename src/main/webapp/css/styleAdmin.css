@@ -1,0 +1,43 @@
+.navbar{
+    background-color: antiquewhite;
+    height: 100px;
+}
+a{
+    text-decoration: none !important;
+    color: black !important;
+}
+i.bi.bi-person-circle{
+    font-size: 40px;
+    color: lightgray;
+}
+.logout-btn{
+    margin-bottom: 20px;
+}
+.logout-link{
+    color: black;
+}
+.img-edit-create{
+    padding-top: 100px;
+    object-fit: cover;
+    height: auto;
+    max-width: 100%;
+}
+.btn-save{
+    font-size: 20px;
+    width: 200px;
+}
+.text-edit{
+    padding-top: 100px;
+}
+label {
+    font-weight: bold;
+}
+a.action-btn{
+    width: 70px;
+}
+img {
+    width: 90%;
+    height: 90%;
+}
+
+
